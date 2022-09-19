@@ -5,12 +5,12 @@
 export const environment = {
   verboseOperations: false,
   firebase: {
-    projectId: 'lostark-helper-8dfb0',
-    appId: '1:149724175977:web:07f4bb26bb508e98a18cf8',
-    storageBucket: 'lostark-helper-8dfb0.appspot.com',
-    apiKey: 'AIzaSyAS587wsXY3WqaWchRGdQ66IQrVk2kjEyE',
-    authDomain: 'lostark-helper-8dfb0.firebaseapp.com',
-    messagingSenderId: '149724175977',
+  apiKey: "AIzaSyAZDzOMQ8ks609s4I6uSznUe3lIPiiohjc",
+  authDomain: "my-lost-ark-helper-4511f.firebaseapp.com",
+  projectId: "my-lost-ark-helper-4511f",
+  storageBucket: "my-lost-ark-helper-4511f.appspot.com",
+  messagingSenderId: "220691820081",
+  appId: "1:220691820081:web:648dd039303b8f9f956f10"
   },
   production: false,
   marketApi: '/api'
